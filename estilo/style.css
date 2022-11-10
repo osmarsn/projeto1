@@ -35,8 +35,8 @@ header {
     padding-top: 40px;
 }
 header > h1 {
-    color: white;
-
+    color: rgb(145, 32, 32);
+    font-style: bold;
     font-family: var(--font-destaque);
     font-size: 3em;
     margin-bottom: 20px;
